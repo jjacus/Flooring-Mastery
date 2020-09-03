@@ -1,0 +1,7 @@
+C:\Users\John\Desktop\SoftwareGuild\C#\Badge 2\Milestone 2\Flooring Mastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.dll.config
+C:\Users\John\Desktop\SoftwareGuild\C#\Badge 2\Milestone 2\Flooring Mastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.dll
+C:\Users\John\Desktop\SoftwareGuild\C#\Badge 2\Milestone 2\Flooring Mastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.pdb
+C:\Users\John\Desktop\SoftwareGuild\C#\Badge 2\Milestone 2\Flooring Mastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.csprojAssemblyReference.cache
+C:\Users\John\Desktop\SoftwareGuild\C#\Badge 2\Milestone 2\Flooring Mastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\SoftwareGuild\C#\Badge 2\Milestone 2\Flooring Mastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.dll
+C:\Users\John\Desktop\SoftwareGuild\C#\Badge 2\Milestone 2\Flooring Mastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.pdb

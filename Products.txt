@@ -1,0 +1,5 @@
+﻿ProductType,CostPerSquareFoot,LaborCostPerSquareFoot
+CARPET,2.25,2.10
+LAMINATE,1.75,2.10
+TILE,3.50,4.15
+WOOD,5.15,4.75
